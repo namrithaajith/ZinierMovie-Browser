@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_top_rated">Top rated</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="label_overview">Overview</string>
+    <string name="vote_average_sample">7/10</string>
+
+    <string name="no_internet">You are not connected to internet.Try later</string>
+</resources>
